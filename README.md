@@ -1,7 +1,7 @@
 # library
 csharp library implementation
 
-## tech specs:
+## Task
 Написали програму бібліотека,
 Класи:
 Бібліотека
